@@ -1,0 +1,51 @@
+h1 {
+  color: maroon;
+}
+p {
+  color: purple:
+}
+body {
+  background-color: cornsilk
+}
+ a: link {
+   color: green;
+ }
+p {
+   padding: 25px, 50px;
+ }
+h2 {
+    color: darkcyan
+  }
+h3 {
+    color: darkmagenta
+  }
+h1 {
+    font-family:Arial;
+  }
+h2 {
+    font-family:Arial;
+  }
+h3 {
+    font-family:Arial;
+  }
+section.solid {
+    border-style: solid;
+  }
+footer {
+    text-align: left;
+  }
+li {
+  text-decoration: underline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 50px;
+}
+p {
+  font-family: Arial
+}
+section.solid {
+  outline-style: solid;
+}
